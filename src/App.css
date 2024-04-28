@@ -1,0 +1,27 @@
+.hello-hello{
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.passwords{
+    margin-top: -89px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #5e675c;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom, #e17558, #738bd9, #33f072);
+    border-radius: 5px; /* Adjust the radius as needed */
+
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background:linear-gradient(to bottom, #e17558, #738bd9, #33f072);
+    border-radius: 5px;
+  }
