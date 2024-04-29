@@ -13,13 +13,13 @@ const Navbar = () => {
                     </span>
 
                 </div>
-                <ul>
+                {/*<ul>
                     <li className='flex gap-4'>
                         <a className='hover:font-bold' href='#'>Home</a>
                         <a className='hover:font-bold' href='#'>About</a>
                         <a className='hover:font-bold' href='#'>Contact</a>
                     </li>
-                </ul>
+                </ul>*/}
                 <button className='text-white bg-green-600 my-5 rounded-full flex justify-between items-center'>
                     <img className='invert w-12 p-1' src='/icons/GitHub-logo.png' alt='github logo'/>
                 </button>
