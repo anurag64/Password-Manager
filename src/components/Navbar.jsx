@@ -20,7 +20,7 @@ const Navbar = () => {
                         <a className='hover:font-bold' href='#'>Contact</a>
                     </li>
                 </ul>*/}
-                <button className='text-white bg-green-600 my-5 rounded-full flex justify-between items-center'>
+                <button className='text-white bg-green-700 my-5 rounded-full flex justify-between items-center'>
                     <img className='invert w-12 p-1' src='/icons/GitHub-logo.png' alt='github logo'/>
                 </button>
             </div>
